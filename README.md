@@ -19,7 +19,7 @@
 
 ./gk_concept_test/wifi_endpoint/
 ./gk_concept_test/wifi_client/
-
+./gk_concept_test/hello_world/ : project used to check the cross-compilation toolchain is working.
 
 
 
